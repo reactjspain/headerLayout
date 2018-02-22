@@ -1,0 +1,11 @@
+# npmignore
+examples
+node_modules
+src
+webpack.config.js
+.babelrc
+.gitignore
+.npmignore
+.vscode
+npm-debug.log
+yarn.lock
